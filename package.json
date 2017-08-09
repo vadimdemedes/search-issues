@@ -1,6 +1,6 @@
 {
 	"name": "search-issues",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Search GitHub issues",
 	"license": "MIT",
 	"repository": "vadimdemedes/search-issues",
